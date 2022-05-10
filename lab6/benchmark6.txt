@@ -1,0 +1,505 @@
+Linked list
+n:10
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:20
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:40
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:80
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:160
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:320
+Time of creating random list: 0.001
+Adding element: 0
+Searching element: 0
+Deleting element: 0.001
+n:640
+Time of creating random list: 0.002
+Adding element: 0
+Searching element: 0.001
+Deleting element: 0.001
+n:1280
+Time of creating random list: 0.008
+Adding element: 0.001
+Searching element: 0.001
+Deleting element: 0.002
+n:2560
+Time of creating random list: 0.03
+Adding element: 0.001
+Searching element: 0.001
+Deleting element: 0.002
+n:5120
+Time of creating random list: 0.121
+Adding element: 0.002
+Searching element: 0.005
+Deleting element: 0.004
+n:10240
+Time of creating random list: 0.478
+Adding element: 0.005
+Searching element: 0.017
+Deleting element: 0.018
+n:20480
+Time of creating random list: 0.01
+Adding element: 0.02
+Searching element: 0.072
+Deleting element: 0.068
+n:40960
+Time of creating random list: 0.019
+Adding element: 0.073
+Searching element: 0.283
+Deleting element: 0.267
+n:81920
+Time of creating random list: 0.04
+Adding element: 0.3
+Searching element: 1.194
+Deleting element: 1.201
+n:163840
+Time of creating random list: 0.074
+Adding element: 1.27
+Searching element: 4.87
+Deleting element: 4.921
+n:327680
+Time of creating random list: 0.15
+Adding element: 5.315
+Searching element: 20.722
+Deleting element: 20.824
+ArrayList
+n:10
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:20
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:40
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:80
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:160
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:320
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:640
+Time of creating random list: 0.001
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:1280
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:2560
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:5120
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0.001
+n:10240
+Time of creating random list: 0.001
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:20480
+Time of creating random list: 0.002
+Adding element: 0
+Searching element: 0
+Deleting element: 0.001
+n:40960
+Time of creating random list: 0.004
+Adding element: 0
+Searching element: 0.001
+Deleting element: 0
+n:81920
+Time of creating random list: 0.007
+Adding element: 0.001
+Searching element: 0.001
+Deleting element: 0.001
+n:163840
+Time of creating random list: 0.016
+Adding element: 0.002
+Searching element: 0.001
+Deleting element: 0.006
+n:327680
+Time of creating random list: 0.033
+Adding element: 0.003
+Searching element: 0.004
+Deleting element: 0.014
+n:655360
+Time of creating random list: 0.068
+Adding element: 0.006
+Searching element: 0.007
+Deleting element: 0.028
+n:1310720
+Time of creating random list: 0.14
+Adding element: 0.013
+Searching element: 0.015
+Deleting element: 0.042
+n:2621440
+Time of creating random list: 0.308
+Adding element: 0.027
+Searching element: 0.032
+Deleting element: 0.088
+n:5242880
+Time of creating random list: 0.529
+Adding element: 0.047
+Searching element: 0.055
+Deleting element: 0.099
+n:10485760
+Time of creating random list: 1.08
+Adding element: 0.098
+Searching element: 0.112
+Deleting element: 0.372
+n:20971520
+Time of creating random list: 2.061
+Adding element: 0.191
+Searching element: 0.223
+Deleting element: 0.675
+BinarySearchTree
+n:10
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:20
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:40
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:80
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:160
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:320
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:640
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:1280
+Time of creating random list: 0.001
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:2560
+Time of creating random list: 0
+Adding element: 0.001
+Searching element: 0
+Deleting element: 0.001
+n:5120
+Time of creating random list: 0
+Adding element: 0.001
+Searching element: 0.001
+Deleting element: 0.001
+n:10240
+Time of creating random list: 0.001
+Adding element: 0.002
+Searching element: 0.002
+Deleting element: 0.002
+n:20480
+Time of creating random list: 0.002
+Adding element: 0.004
+Searching element: 0.004
+Deleting element: 0.005
+n:40960
+Time of creating random list: 0.004
+Adding element: 0.013
+Searching element: 0.017
+Deleting element: 0.017
+n:81920
+Time of creating random list: 0.009
+Adding element: 0.03
+Searching element: 0.051
+Deleting element: 0.048
+n:163840
+Time of creating random list: 0.018
+Adding element: 0.08
+Searching element: 0.143
+Deleting element: 0.142
+n:327680
+Time of creating random list: 0.034
+Adding element: 0.296
+Searching element: 0.556
+Deleting element: 0.545
+n:655360
+Time of creating random list: 0.068
+Adding element: 0.929
+Searching element: 1.905
+Deleting element: 1.981
+n:1310720
+Time of creating random list: 0.136
+Adding element: 3.362
+Searching element: 7.582
+Deleting element: 7.715
+n:2621440
+Time of creating random list: 0.272
+Adding element: 13.507
+Searching element: 29.687
+Deleting element: 29.808
+AVL tree
+n:10
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:20
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:40
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:80
+Time of creating random list: 0.001
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:160
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:320
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:640
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0.001
+Deleting element: 0
+n:1280
+Time of creating random list: 0.001
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:2560
+Time of creating random list: 0.002
+Adding element: 0
+Searching element: 0
+Deleting element: 0.001
+n:5120
+Time of creating random list: 0.004
+Adding element: 0.001
+Searching element: 0
+Deleting element: 0
+n:10240
+Time of creating random list: 0.01
+Adding element: 0.001
+Searching element: 0.001
+Deleting element: 0.001
+n:20480
+Time of creating random list: 0.02
+Adding element: 0.002
+Searching element: 0.001
+Deleting element: 0.003
+n:40960
+Time of creating random list: 0.044
+Adding element: 0.004
+Searching element: 0.004
+Deleting element: 0.009
+n:81920
+Time of creating random list: 0.097
+Adding element: 0.01
+Searching element: 0.01
+Deleting element: 0.02
+n:163840
+Time of creating random list: 0.218
+Adding element: 0.019
+Searching element: 0.022
+Deleting element: 0.046
+n:327680
+Time of creating random list: 0.533
+Adding element: 0.043
+Searching element: 0.042
+Deleting element: 0.058
+n:655360
+Time of creating random list: 1.234
+Adding element: 0.093
+Searching element: 0.089
+Deleting element: 0.203
+n:1310720
+Time of creating random list: 3.056
+Adding element: 0.193
+Searching element: 0.233
+Deleting element: 0.374
+n:2621440
+Time of creating random list: 6.972
+Adding element: 0.442
+Searching element: 0.449
+Deleting element: 0.793
+n:5242880
+Time of creating random list: 14.886
+Adding element: 1.022
+Searching element: 1.061
+Deleting element: 1.405
+n:10485760
+Time of creating random list: 33
+Adding element: 2.251
+Searching element: 2.338
+Deleting element: 2.491
+2-3 tree
+n:10
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:20
+Time of creating random list: 0.001
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:40
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:80
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:160
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:320
+Time of creating random list: 0
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:640
+Time of creating random list: 0
+Adding element: 0.001
+Searching element: 0
+Deleting element: 0
+n:1280
+Time of creating random list: 0.001
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:2560
+Time of creating random list: 0.002
+Adding element: 0
+Searching element: 0
+Deleting element: 0
+n:5120
+Time of creating random list: 0.004
+Adding element: 0.001
+Searching element: 0
+Deleting element: 0
+n:10240
+Time of creating random list: 0.009
+Adding element: 0.001
+Searching element: 0.001
+Deleting element: 0.001
+n:20480
+Time of creating random list: 0.02
+Adding element: 0.002
+Searching element: 0.001
+Deleting element: 0.002
+n:40960
+Time of creating random list: 0.044
+Adding element: 0.005
+Searching element: 0.003
+Deleting element: 0.004
+n:81920
+Time of creating random list: 0.093
+Adding element: 0.008
+Searching element: 0.007
+Deleting element: 0.008
+n:163840
+Time of creating random list: 0.216
+Adding element: 0.017
+Searching element: 0.017
+Deleting element: 0.016
+n:327680
+Time of creating random list: 0.476
+Adding element: 0.036
+Searching element: 0.034
+Deleting element: 0.036
+n:655360
+Time of creating random list: 1.044
+Adding element: 0.076
+Searching element: 0.075
+Deleting element: 0.079
+n:1310720
+Time of creating random list: 2.376
+Adding element: 0.164
+Searching element: 0.169
+Deleting element: 0.169
+n:2621440
+Time of creating random list: 5.224
+Adding element: 0.367
+Searching element: 0.386
+Deleting element: 0.397
+n:5242880
+Time of creating random list: 11.528
+Adding element: 0.899
+Searching element: 0.977
+Deleting element: 1.176
+n:10485760
+Time of creating random list: 21.292
+Adding element: 1.9
+Searching element: 2.014
+Deleting element: 1.947
+n:20971520
+Time of creating random list: 50.592
+Adding element: 4.361
+Searching element: 4.32
+Deleting element: 4.513
