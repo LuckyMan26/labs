@@ -6,3 +6,4 @@
 4) Додав різний спосіб виведення дерева та в 6 блоці додав можливість парсити вираз(тобто користувач може ввести вираз, а програма сконвертує його в бінарне дерево)
 
 6. 6)Структура для сортування:7 
+7) Need to download SFML 2.5.1 and need to download all these 5 pictures and arial.ttf and put them in the folder,where your IDE is located
